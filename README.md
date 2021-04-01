@@ -10,5 +10,6 @@ Django админка доступна по адресу:
 http://3.133.151.41:8000/admin
 
 Данные для входа:
+
 login: root
 password: qwerty2002
