@@ -1,0 +1,65 @@
+version: "3"
+
+services:
+  db:
+    container_name: database
+    #image: sameersbn/postgresql:12-20200524
+    image: library/postgres:13-alpine
+    restart: always
+    environment:
+      POSTGRES_USER: $PGUSER
+      POSTGRES_PASSWORD: $PGPASSWORD
+      POSTGRES_DB: $DATABASE
+    networks:
+      - botnet
+    ports:
+      - "5432:5432"
+    volumes:
+    - ./postgresql:/var/lib/postgresql
+
+  redis:
+    container_name: redis
+    image: redis:alpine
+    networks:
+      - botnet
+    restart: on-failure
+    volumes:
+      - /redis-data:/var/lib/redis
+    ports:
+      - "6379:6379"
+
+  tgbot:
+    container_name: bot
+    build:
+      context: .
+    command: python app.py
+    networks:
+      - botnet
+    restart: always
+    env_file:
+      - .env
+    volumes:
+    - .:/src
+    depends_on:
+      - db
+      - django
+      - redis
+
+  django:
+    container_name: djangoproject
+    build:
+      context: .
+    command: sh -c "python django_app.py migrate && python django_app.py runserver 0.0.0.0:8000 --noreload"
+    ports:
+      - "8000:8000"
+    networks:
+      - botnet
+    restart: always
+    env_file:
+      - .env
+    depends_on:
+      - db
+
+networks:
+  botnet:
+    driver: bridge

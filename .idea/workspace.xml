@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8dd3a24-7905-4783-aa82-f4bf7f2d9c03" name="Default Changelist" comment="upload" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="6673374a-c62c-42c0-8956-0af33d1e204f" />
+  <component name="ProjectId" id="1p6zgJ7JV3cDVNTnLERrhl5RffT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\FinalTask\utils\misc" />
+      <recent name="E:\FinalTask\django_project\finalbot" />
+      <recent name="E:\FinalTask\django_project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Dockerfile">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FinalTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8dd3a24-7905-4783-aa82-f4bf7f2d9c03" name="Default Changelist" comment="" />
+      <created>1614518437705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614518437705</updated>
+      <workItem from="1614518438886" duration="6787000" />
+      <workItem from="1614606982054" duration="14097000" />
+      <workItem from="1614917229588" duration="60940000" />
+      <workItem from="1616131062810" duration="31039000" />
+      <workItem from="1616417359076" duration="55206000" />
+      <workItem from="1617130851657" duration="29527000" />
+      <workItem from="1617221423873" duration="8917000" />
+    </task>
+    <task id="LOCAL-00001" summary="upload">
+      <created>1617297314300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617297314300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Deployment" timestamp="1617142831390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1617142831390" />
+    <state x="395" y="91" key="#Inspections" timestamp="1614520854647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1614520854647" />
+    <state x="444" y="94" key="#Options" timestamp="1617137331239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="94" key="#Options/0.0.1536.824@0.0.1536.824" timestamp="1617137331239" />
+    <state x="345" y="58" key="#SSH_Configurations" timestamp="1617142824802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="58" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1617142824802" />
+    <state x="315" y="66" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616820479950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="315" y="66" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616820479950" />
+    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615901340244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615901340244" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1617112284885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1617112284885" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617128473401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617128473401" />
+    <state x="55" y="68" width="1350" height="638" key="DiffContextDialog" timestamp="1617259453928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="55" y="68" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1617259453928" />
+    <state x="93" y="93" width="1350" height="638" key="DirDiffDialog" timestamp="1617141239082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DirDiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1617141239082" />
+    <state x="861" y="163" key="EnvironmentVariablesDialog" timestamp="1616312885893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="861" y="163" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1616312885893" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617142810845">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617142810845" />
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1617297052056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1617297052056" />
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom" timestamp="1617130826400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617130826400" />
+    <state width="1493" height="162" key="GridCell.Tab.0.center" timestamp="1617130826400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617130826400" />
+    <state width="1493" height="162" key="GridCell.Tab.0.left" timestamp="1617130826399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617130826399" />
+    <state width="1493" height="162" key="GridCell.Tab.0.right" timestamp="1617130826400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617130826400" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1616156943656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1616156943656" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1614780985286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614780985286" />
+    <state x="624" y="311" key="WebDeployment.AddServerDialog.v.1" timestamp="1617137218481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="624" y="311" key="WebDeployment.AddServerDialog.v.1/0.0.1536.824@0.0.1536.824" timestamp="1617137218481" />
+    <state x="665" y="146" width="415" height="531" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1617297296585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="665" y="146" width="415" height="531" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1617297296585" />
+    <state x="930" y="286" key="ftp.server.browser" timestamp="1617137461108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="930" y="286" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1617137461108" />
+    <state x="552" y="314" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1617297030569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="314" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617297030569" />
+    <state x="640" y="304" key="publish.login" timestamp="1617136975022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="304" key="publish.login/0.0.1536.824@0.0.1536.824" timestamp="1617136975022" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1616157162269">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616157162269" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinalTask$app.coverage" NAME="app Coverage Results" MODIFIED="1616681278539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
